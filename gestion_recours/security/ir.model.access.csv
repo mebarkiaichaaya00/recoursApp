@@ -1,0 +1,12 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+gestion_recours.access_recours_agence,access_recours_agence,gestion_recours.model_recours_agence,base.group_user,1,1,1,1
+gestion_recours.access_recours_personnel,access_recours_personnel,gestion_recours.model_recours_personnel,base.group_user,1,1,1,1
+gestion_recours.access_recours_assure,access_recours_assure,gestion_recours.model_recours_assure,base.group_user,1,1,1,1
+gestion_recours.access_recours_membre,access_recours_membre,gestion_recours.model_recours_membre,base.group_user,1,1,1,1
+gestion_recours.access_recours_commission,access_recours_commission,gestion_recours.model_recours_commission,base.group_user,1,1,1,1
+gestion_recours.access_recours_piece,access_recours_piece,gestion_recours.model_recours_piece,base.group_user,1,1,1,1
+gestion_recours.access_recours_recours,access_recours_recours,gestion_recours.model_recours_recours,base.group_user,1,1,1,1
+gestion_recours.access_recours_notification,access_recours_notification,gestion_recours.model_recours_notification,base.group_user,1,1,1,1
+gestion_recours.access_recours_loi,access_recours_loi,gestion_recours.model_recours_loi,base.group_user,1,1,1,1
+gestion_recours.access_recours_reunion,access_recours_reunion,gestion_recours.model_recours_reunion,base.group_user,1,1,1,1
+gestion_recours.access_recours_decision,access_recours_decision,gestion_recours.model_recours_decision,base.group_user,1,1,1,1

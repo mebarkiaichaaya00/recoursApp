@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_gestion_recours" name="Gestion des Recours" sequence="10"/>
+
+    <!-- Menu Recours -->
+    <menuitem id="menu_recours" name="Recours" parent="menu_gestion_recours" sequence="10"/>
+
+
+
+
+</odoo>

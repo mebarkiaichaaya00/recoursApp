@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Action pour afficher la liste des recours -->
+    <record id="action_recours_tree" model="ir.actions.act_window">
+        <field name="name">Liste des Recours</field>
+        <field name="type">ir.actions.act_window</field>
+        <field name="res_model">recours.recours</field>
+        <field name="view_mode">tree,form</field>
+
+    </record>
+
+    <menuitem id="menu_recours_list"
+              name="Tous les recours"
+              parent="menu_recours"
+              action="action_recours_tree"
+              sequence="10"/>
+
+</odoo>
